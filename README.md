@@ -70,6 +70,6 @@ Hii..This is Pamarthi Jayanth...Here is about my Mscloud project
 
 ### Azure Static Web App -
 
-![Screenshot (34)](https://user-images.githubusercontent.com/118429052/209444213-22b347ab-e0f2-460e-82fd
+
  
   THANK YOU
