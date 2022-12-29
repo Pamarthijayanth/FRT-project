@@ -1,35 +1,29 @@
-# ✨ Agricfarm ✨
+Hii..This is Pamarthi Jayanth...Here is about my Mscloud project
 
-This is a web based application developed for Agriculture related website in india
+✨Project Name: Agricfarm ✨
 
-### This web based earth application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-
-
-Project Link - https://kind-field-054014000.2.azurestaticapps.net
-
+* Github Respoistory Link * -
+* Project Link * - https://kind-field-054014000.2.azurestaticapps.net
+* Project Demo video URL * - 
 
 
+* Industry Name * - Earth
 
-Project demo video link -
+* Project Title * - Agricfarm
 
+* Problem Statement/Opportunity * - Agro-farm means agricultural systems that promote the environmentally, socially and economically resonance production of food.                                           Farming is the act or process of working the ground, planting seeds, and growing edible plants.
+                                   
 
-## Features and Functionalities 😃
+* Project Description * - A farm is an area of land that is devoted primarily to agricultural processes with the primary objective of producing food and other crops; it                           is the basic facility in food production. Agro-farm means agricultural systems that promote the environmentally, socially and economically                               resonance production of food. supporting livelihoods through food, habitat, and jobs; providing raw materials for food and other products; and                           building strong economies through trade.
 
-- Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
-- Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About, Services, Contact, Healthbot topics and agricfarm related information etc.
-- User can know about agricfarm information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+* Primary Azure Technology * - Health Bot, Static Web Apps, Web Apps,
 
-## Screenshots
+* Other Azure Technologies * -  HTML, CSS, Bootstrap, JavaScript
 
 
-
-
-
-
-### Home -
+ ## My Project Sreenshots ##
+ 
+ ### Home -
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/118429052/209444003-37c97737-ab8d-49ac-bb1e-cfb746495fad.png)
 
@@ -76,19 +70,6 @@ Project demo video link -
 
 ### Azure Static Web App -
 
-![Screenshot (34)](https://user-images.githubusercontent.com/118429052/209444213-22b347ab-e0f2-460e-82fd-bae1cb87e4c4.png)
-
-
-
-
-## Tech Stack 💻
-
-- [Azure(Hosting)]
-
-- HTML
-
-- CSS
-
-- Bootstrap
-
- - JavaScript
+![Screenshot (34)](https://user-images.githubusercontent.com/118429052/209444213-22b347ab-e0f2-460e-82fd
+ 
+  THANK YOU
