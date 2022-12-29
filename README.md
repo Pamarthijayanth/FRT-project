@@ -1,9 +1,11 @@
-Hii..This is Pamarthi Jayanth...Here is about my Mscloud project
+Hii..This is Pamarthi Jayanth...Here is about my Ms cloud project
 
 ✨Project Name: Agricfarm ✨
 
-* Github Respoistory Link * -
+* Github Respoistory Link * - https://github.com/Pamarthijayanth/FRT-project
+
 * Project Link * - https://kind-field-054014000.2.azurestaticapps.net
+
 * Project Demo video URL * - 
 
 
