@@ -6,7 +6,7 @@ Hii..This is Pamarthi Jayanth...Here is about my Ms cloud project
 
 * Project Link * - https://kind-field-054014000.2.azurestaticapps.net
 
-* Project Demo video URL * - 
+* Project Demo video URL * - https://youtu.be/KJ0v3e13gCI
 
 
 * Industry Name * - Earth
